@@ -1,0 +1,1 @@
+# C-string-cin.get-cin.ignore
